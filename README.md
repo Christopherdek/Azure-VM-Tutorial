@@ -1,11 +1,11 @@
-# Azure Virtual Machine Tutorial - Simplified
+# Azure Virtual Machine Tutorial
 
 ![image](https://github.com/Christopherdek/Azure-VM-Tutorial/assets/148359456/c30046ef-7881-4feb-ae2f-722603d4ca58)
 
 
 Today, we're diving into the world of Azure Virtual Machines. No need for a lengthy introduction—let's jump right in! First up, a brief overview of Azure, then we'll get into the Azure Virtual Machine. After that, we'll explore its benefits, take a closer look at its components, and cap it off with a hands-on demo.
 
-## What's Azure?
+## What is Azure?
 
 Azure is a Microsoft cloud service designed for building, testing, and managing applications through data centers. It's flexible, letting you pay for what you use and adapt to business changes. Azure boasts reliability, 24/7 support, and cost-effective pay-as-you-go pricing.
 
